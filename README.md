@@ -4,3 +4,9 @@ noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who
 
 ## Download The Application↴
 https://eng-cj.github.io/Hackthon-Dev
+
+## Visit My Portfolio
+https://eng-cj.github.io/Hackthon-Dev
+
+## Contact With me
++252683533247
